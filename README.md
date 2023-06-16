@@ -3,8 +3,8 @@
 - <h3>🌱 I’m currently creating new Games and Web applications </h3>
 - <h2>You can check my first game </h2>
 - # Github: https://github.com/hsmyv/Unity3D-ZombiePursuit
-- <h3>Other game also has terminated</h3>
-- <h3> Github: https://github.com/hsmyv/Unity3d-EscapeFromHauntedHouse </h3>
+- <h2>Other game also has created</h2>
+- # Github: https://github.com/hsmyv/Unity3d-EscapeFromHauntedHouse
 
 <!---
 hsmyv/hsmyv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
