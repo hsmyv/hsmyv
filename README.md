@@ -3,7 +3,8 @@
 - <h3>🌱 I’m currently creating new Games and Web applications </h3>
 - <h2>You can check my first game </h2>
 - # Github: https://github.com/hsmyv/Unity3D-ZombiePursuit
-- <h2>Other game also has created</h2>
+- <h2>Other my second game also has published</h2>
+- # Amazon Store: https://www.amazon.com/gp/product/B0C9YFS64C
 - # Github: https://github.com/hsmyv/Unity3d-EscapeFromHauntedHouse
 
 <!---
