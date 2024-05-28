@@ -1,7 +1,6 @@
 - <h3>👋 Hi, I’m Hasan Musayev </h3>
-- <h3>👀 I'm always much more comfortable just writing code </h3>
-- <h3>🌱 I’m currently creating new Games and Web applications </h3>
-- <h3> :octocat: Portfolio: https://ourprojectlaravel.000webhostapp.com/</h3>
+- <h3>👀 All the project which I worked and involved with team are hidden,</h3>
+  <h3>public projects were made for testing and inspiring as hobby.</h3>
 - <h2> Check out my game </h2>
 - <h2> Zombie Pursuit: </h2>
 - <h3> AmazonStore: https://www.amazon.com/gp/product/B0CBQMNLSS </h3>
